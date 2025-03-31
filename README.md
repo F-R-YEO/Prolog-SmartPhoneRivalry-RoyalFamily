@@ -1,5 +1,4 @@
 # Prolog-SmartPhoneRivalry-RoyalFamily
-NTU SC3000 Artificial Intelligence Project 2, Sem 2 2025
 
 This repository contains the Prolog knowledge bases and accompanying documentation for Assignment 2 of the SC3000 Artificial Intelligence Lab. The project demonstrates the use of Prolog to represent and reason with knowledge expressed in First Order Logic (FOL).
 
