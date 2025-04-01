@@ -61,7 +61,7 @@ After receiving the first result, type a semicolon (;) to see subsequent solutio
 
 
 License
-This project is submitted as part of the SC3000 Artificial Intelligence Lab Assignment 2. All rights are reserved.
+This project is submitted as part of the Artificial Intelligence Lab Assignment 2. All rights are reserved.
 
 
    
