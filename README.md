@@ -1,6 +1,6 @@
 # Prolog-SmartPhoneRivalry-RoyalFamily
 
-This repository contains the Prolog knowledge bases and accompanying documentation for Assignment 2 of the SC3000 Artificial Intelligence Lab. The project demonstrates the use of Prolog to represent and reason with knowledge expressed in First Order Logic (FOL).
+This repository contains the Prolog knowledge bases and accompanying documentation for Assignment 2 of the Artificial Intelligence Lab. The project demonstrates the use of Prolog to represent and reason with knowledge expressed in First Order Logic (FOL).
 
 # Overview
 The project addresses two exercises:
